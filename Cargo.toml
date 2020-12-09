@@ -1,0 +1,5 @@
+[package]
+name = "day9"
+version = "0.1.0"
+authors = ["T-Dark <tdark.uuid@gmail.com>"]
+edition = "2018"
